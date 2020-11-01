@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1604251169 source:c:\users\marni\documents\develop\cpp\estructurasnolineales\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<exception>
+	"Arbol.h"
+
+1604251144 c:\users\marni\documents\develop\cpp\estructurasnolineales\arbol.h
+	<iostream>
+	"NodoArbol.h"
+
+1604238373 c:\users\marni\documents\develop\cpp\estructurasnolineales\nodoarbol.h
+
+1604251169 source:c:\users\sp314-51\downloads\estructurasnolineales\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<exception>
+	"Arbol.h"
+
+1604251144 c:\users\sp314-51\downloads\estructurasnolineales\arbol.h
+	<iostream>
+	"NodoArbol.h"
+
+1604238373 c:\users\sp314-51\downloads\estructurasnolineales\nodoarbol.h
+
